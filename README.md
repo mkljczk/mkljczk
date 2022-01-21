@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+You can find most of my recent activity on [gitlab.com/mkljczk](https://gitlab.com/mkljczk) and [git.pleroma.social/mkljczk](https://git.pleroma.social/mkljczk/)
+
 <!--
 **mkljczk/mkljczk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
